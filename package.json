@@ -2,9 +2,12 @@
   "name": "uploader",
   "version": "1.0.0",
   "description": "\"# React-File-Uploader\"",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
-    "start": "node server.js"
+    "start": "node server.js",
+    "server": "nodemon server.js",
+    "client": "npm start --prefix client",
+    "dev": "concurrently \"npm run server\" \"npm run client\""
   },
   "repository": {
     "type": "git",
