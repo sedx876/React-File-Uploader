@@ -1,0 +1,20 @@
+{
+  "name": "uploader",
+  "version": "1.0.0",
+  "description": "\"# React-File-Uploader\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sedx876/React-File-Uploader.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sedx876/React-File-Uploader/issues"
+  },
+  "homepage": "https://github.com/sedx876/React-File-Uploader#readme"
+}
